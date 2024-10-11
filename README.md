@@ -6,7 +6,7 @@ I've recently completed a Data Bootcamp and worked with: Excel - SQL -Python -Az
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [Maiaelena Mesisca](http://sites.google.com/view/mariaelenamesisca?usp=sharing)
-*   🤝  I'm open to collaborating on the completion of complex projects with like-minded individuals from whom I can learn as much as possible
+*   🤝  I'm open to collaborating on complex projects with like-minded individuals from whom I can learn as much as possible
 
 
 *   ### Skills 
