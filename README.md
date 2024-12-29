@@ -1,8 +1,7 @@
 Hi 👋 I'm Mary
+and I've recently completed a Data Bootcamp.
 
-and I'm an aspiring Data Analyst.
-
-I've recently completed a Data Bootcamp and worked with: Excel - SQL -Python -Azure -R -Tableau -Power BI
+I worked with: Excel - SQL -Python -Azure -R -Tableau -Power BI
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [Maiaelena Mesisca](http://sites.google.com/view/mariaelenamesisca?usp=sharing)
