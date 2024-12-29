@@ -1,4 +1,5 @@
 Hi 👋 I'm Mary
+
 and I've recently completed a Data Bootcamp.
 
 I worked with: Excel - SQL -Python -Azure -R -Tableau -Power BI
