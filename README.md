@@ -5,7 +5,7 @@ I worked with: Excel - SQL -Python -Azure -R -Tableau -Power BI
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [Maiaelena Mesisca](http://sites.google.com/view/mariaelenamesisca?usp=sharing)
-*   🤝  I'm open to collaborating on complex projects with like-minded individuals from whom I can learn as much as possible
+
 
 
 *   ### Skills 
